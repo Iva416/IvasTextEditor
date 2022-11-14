@@ -3,13 +3,13 @@
 ## Description
 
 ```
-This is a codebase for a web application using PWA. The technologies used are javascript as well as a registered service worker using workbox.
+This is a codebase for a web application using PWA. The technologies used are express as well as workbox. Download this text editor application by clicking the "install button".
 ```
 
 ## How to Use
 
 ```
-Open the command line and run npm i & npm run start and view it on http://localhost:3000/
+Click the following link to use the application: https://ivas-text-editor.herokuapp.com/
 ```
 
 The following image shows the web application's appearance and functionality:
